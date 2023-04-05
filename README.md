@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First thing you have to do is open up your control panel then click on program and click on turn window feature on and off and turn on Internet Information servies 
+First thing you have to do is open up your control panel then click on program and click on turn window feature on and off and turn on Internet Information services and click the plus beside ISS, world wide web Services, and application developer features so you can turn on CGI  
 </p>
 <br />
 
