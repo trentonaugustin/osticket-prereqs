@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First thing you have to do is open up your control panel then click on program and click on turn window feature on and off and turn on Internet Information services and click the plus beside ISS, world wide web Services, and application developer features so you can turn on CGI. The next thing you need to do is download the PhP manager, Rewrite module, and PHP 7.3.8 after you those are done create a folder called C:\PHP so you can extract the PHP 7.3.8 and put in the folder now we download VC redist.x86.axe and MY.SQL.5.5.62b when you get ready to install the MY.SQL.5.5.62b there's gonna be some things you need to click on so you can set it up 
+The first thing you have to do is open up your control panel, turn on Internet Information Services, and click the plus beside ISS, world wide web Services, and application developer features so you can turn on CGI. The next thing you need to do is download the PhP manager, Rewrite module, and PHP 7.3.8 after you those are done create a folder called C:\PHP so you can extract the PHP 7.3.8 and put in the folder now we download VC redist.x86.axe and MY.SQL.5.5.62b when you get ready to install the MY.SQL.5.5.62b its going to ask you to choose a setup make sure you pick typical.
 </p>
 <br />
 
