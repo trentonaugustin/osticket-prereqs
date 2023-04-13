@@ -42,7 +42,7 @@ The first thing you have to do is open up your control panel, turn on Internet I
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Next step is to open Internet Information Services as a admin andonce that's open click on PhP Manager and then register new PHP version it will ask to select a file you're gonna click on the php folder and then the php-cgi files after you do that press the restart button in iss
 </p>
 <br />
 
