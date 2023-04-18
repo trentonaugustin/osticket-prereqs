@@ -42,7 +42,7 @@ The first thing you have to do is open up your control panel, turn on Internet I
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>cow
 </p>
 <p>
-  Next step is to open Internet Information Services as a admin andonce that's open click on PhP Manager and then register new PHP version it will ask to select a file you're gonna click on the php folder and then the php-cgi files after you do that press the restart button in iss. Now your gonna download the osticket file  
+  Next step is to open Internet Information Services as a admin andonce that's open click on PhP Manager and then register new PHP version it will ask to select a file you're gonna click on the php folder and then the php-cgi files after you do that press the restart button in iss. Now your gonna download the osticket file once that done open two to tabs of the file explorer on the first tab go to download and then click on the file osticket file and you see a folder named uploads rename it as osTicket
 </p>
 <br />
 
