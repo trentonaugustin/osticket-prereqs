@@ -50,6 +50,6 @@ The first thing you have to do is open up your control panel, turn on Internet I
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Now you return back to ISS and click PHP manager and then on enable or disable so we can allow osticket to access 
+  Now you return back to ISS and click PHP manager and then on enable or disable an extension so we can allow osticket to access to these following php_imap.dll, php_intl.dll, and php_opcache.dll after you enable all three your gonna to the osticket installer and refresh it then
 </p>
 <br />
