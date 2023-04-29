@@ -39,7 +39,7 @@ The first thing you have to do is open up your control panel, turn on Internet I
 <br />
 
 <p>
-<img src=https://i.imgur.com/jZmpcR6.png height="80%" width="80%" alt="Disk Sanitization Steps"/>cow
+<img src=https://i.imgur.com/01DQhDp.png height="80%" width="80%" alt="Disk Sanitization Steps"/>cow
 </p>
 <p>
   Next step is to open Internet Information Services as a admin. Once that's done click on PHP Manager and then register new PHP version it will ask to choose a file you're gonna select on the php folder and then the php-cgi files after you do that press the restart button in ISS. Now your gonna download the osticket file once that done open two to tabs of the file explorer on the first tab go to download and then click on the file osticket file and you see a folder named upload rename it as osTicket now you move to your second tab and move to the this pc tab and select on the window c drive and then inetpub and drag the osticket folder inside the wwwroot so it can extract. If you come back to the Iss tab hit the restart button next step is to go to sites then default and osticket now if you look to the right of your screen you should see browse *80, click on that and it should bring you to a website for the osticket installer.
