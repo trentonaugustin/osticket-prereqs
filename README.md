@@ -25,8 +25,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 - Control Panel
 - ISS as Admin
-- Item 4
-- Item 5
+- Heidi SQL
+- OsTicket Installer
 
 <h2>Installation Steps</h2>
 
